@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family:sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #dfe1e5;
+}
+
+code {
+  font-family: sans-serif
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color:#29dd5f;
+  color: rgb(15, 14, 14);
+  padding: 15px;
+  font-size: 2em;
+}
+
+.nav a {
+  color: #0F1626;
+  text-decoration: none;
+}
+
+table, th, td {    
+  border: 1px solid #0F1626; 
+  margin-left: auto;  
+  margin-right: auto;  
+  border-collapse: collapse;    
+  width: 500px;  
+  text-align: center;  
+  font-size: 20px;  
+  }    
+
+  .dashboard {
+      text-align: center;
+      color: #0F1626;
+  }
+
+  .stock-info {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    color: rgb(231, 65, 65);
+
+  }
+
+  h2{
+    color: #db4a1e;
+  }
+
+  
